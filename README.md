@@ -24,6 +24,18 @@
 ## Terminal
 * [iTerm2](https://www.iterm2.com/features.html): This is a must for any power user of terminal.
 * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) with [Powerline fonts](https://github.com/powerline/fonts): Nice aesthetics for the terminal and useful plugins.
+* [htop](https://github.com/hishamhm/htop): replacement for `top`. Much prettier and more practical with useful key bindings:
+
+  * **P**: Sort by CPU Usage
+
+  * **M**: Sort by Memory Usage
+
+  * **F4**: Filter by string
+
+* [bat](https://github.com/sharkdp/bat): Pretty much a replacement for `cat` (which prints contents of files) but with syntax highlighting, line numbers and more. I recommend adding it as alias to `cat` like so: 
+  * `alias cat='bat'`
+  
+* [ncdu](https://dev.yorhel.nl/ncdu): Get information about disk space.
 
 
 
