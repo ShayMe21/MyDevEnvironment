@@ -8,8 +8,12 @@
 ---
 
 ## Applications
-* Microsoft OneNote
-* BoostNote
+* [Microsoft OneNote](http://www.onenote.com): MacOS app is almost as good as the Windows one now. I use this for:
+  * Taking down notes for meetings
+  * Creating nice visual pages for different technologies I am trying to learn.
+  * Writing down Main take-aways from the books I read.
+  * Personal details I'd like synced to view on my other devices.
+* [BoostNote](https://boostnote.io/): This is my goto app for keeping useful snippets of code/terminal. It supports Markdown and syntax highlighting so it's got a big advantage over OneNote.
 * Visual Studio Code + some uncommon extensions below you may find useful:
   * [One Dark Pro theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
   * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): Nice UI improvement to help with reading your own spagethi code :D
