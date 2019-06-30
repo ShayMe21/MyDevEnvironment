@@ -24,6 +24,8 @@
 ## Terminal
 * [iTerm2](https://www.iterm2.com/features.html): This is a must for any power user of terminal.
 * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) with [Powerline fonts](https://github.com/powerline/fonts): Nice aesthetics for the terminal and useful plugins.
+  * ZSH_THEME="cobalt2" (https://github.com/wesbos/Cobalt2-iterm)
+  ![My Terminal](https://i.imgur.com/NuU9yds.png)
 * [htop](https://github.com/hishamhm/htop): replacement for `top`. Much prettier and more practical with useful key bindings:
 
   * **P**: Sort by CPU Usage
@@ -36,7 +38,7 @@
   * `alias cat='bat'`
   
 * [ncdu](https://dev.yorhel.nl/ncdu): Get information about disk space.
-
+* [fd](https://github.com/sharkdp/fd/): Simple replacement for `find`. 
 
 
 ## Browser and Extensions
