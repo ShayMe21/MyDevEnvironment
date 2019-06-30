@@ -10,7 +10,12 @@
 ## Applications
 * Microsoft OneNote
 * BoostNote
-* VS Code
+* Visual Studio Code + some uncommon extensions below you may find useful:
+  * [One Dark Pro theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+  * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): Nice UI improvement to help with reading your own spagethi code :D
+  * [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode): Keeps track of how much time you spent coding vs. looking at memes.
+  * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+  * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 * Postman
 * Magnet
 * Zoom
