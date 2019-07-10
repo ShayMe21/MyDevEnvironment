@@ -27,6 +27,7 @@
 * Trello
 * Tomighty
 * Clocker
+* [Clipy](https://github.com/Clipy/Clipy): This is an awesome tool for managing clipboard history and common snippets/URLs you copy/paste.
 
 
 
