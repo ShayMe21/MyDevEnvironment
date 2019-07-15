@@ -23,7 +23,14 @@
 * Postman
 * Magnet
 * Zoom
-* Alfred
+* [Alfred 4](https://www.alfredapp.com/) with Powerpack is a must for productivity hacks on MacOS.
+  * tldr: https://github.com/cs1707/tldr-alfred
+  * Terminal Finder: https://github.com/LeEnno/alfred-terminalfinder
+  * devdocs: https://github.com/yannickglt/alfred-devdocs
+  * GitHub: https://github.com/gharlan/alfred-github-workflow
+  * IP Address: https://github.com/alexchantastic/alfred-ip-address-workflow
+  * Colors: http://www.packal.org/workflow/colors
+  * Encode/Decode: https://github.com/willfarrell/alfred-encode-decode-workflow
 * Trello
 * Tomighty
 * Clocker
