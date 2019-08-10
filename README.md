@@ -31,6 +31,11 @@
   * IP Address: https://github.com/alexchantastic/alfred-ip-address-workflow
   * Colors: http://www.packal.org/workflow/colors
   * Encode/Decode: https://github.com/willfarrell/alfred-encode-decode-workflow
+  * Host File Manager: http://www.packal.org/workflow/hosts-file-manager
+  * Dash: https://github.com/Kapeli/Dash-Alfred-Workflow
+  * Process Killer: https://github.com/nathangreenstein/alfred-process-killer
+  * LastPass CLI: http://www.packal.org/workflow/lastpass-cli-workflow-alfred
+  * Spotify Mini Player: http://alfred-spotify-mini-player.com
 * Trello
 * Tomighty
 * Clocker
@@ -43,6 +48,14 @@
 * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) with [Powerline fonts](https://github.com/powerline/fonts): Nice aesthetics for the terminal and useful plugins.
   * ZSH_THEME="cobalt2" (https://github.com/wesbos/Cobalt2-iterm)
   ![My Terminal](https://i.imgur.com/NuU9yds.png)
+  * plugins=(git brew colored-man docker colorize zsh-syntax-highlighting history vscode npm yarn ng pip redis-cli sudo)
+  * aliases:
+ ```
+ alias zshconfig="code ~/.zshrc"
+ alias ohmyzsh="code ~/.oh-my-zsh"
+ alias cat="bat"
+ alias ls="ls -lAFh"
+ ```
 * [htop](https://github.com/hishamhm/htop): replacement for `top`. Much prettier and more practical with useful key bindings:
 
   * **P**: Sort by CPU Usage
@@ -51,9 +64,7 @@
 
   * **F4**: Filter by string
 
-* [bat](https://github.com/sharkdp/bat): Pretty much a replacement for `cat` (which prints contents of files) but with syntax highlighting, line numbers and more. I recommend adding it as alias to `cat` like so: 
-  * `alias cat='bat'`
-  
+* [bat](https://github.com/sharkdp/bat): Pretty much a replacement for `cat` (which prints contents of files) but with syntax highlighting, line numbers and more. 
 * [ncdu](https://dev.yorhel.nl/ncdu): Get information about disk space.
 * [fd](https://github.com/sharkdp/fd/): Simple replacement for `find`. 
 
