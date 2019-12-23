@@ -74,13 +74,15 @@
 ## Browser and Extensions
 * Vivaldi/Chrome: I use both but my primary browser has been [Vivaldi](https://vivaldi.com) lately because you get all features of Chrome + added customizations and features.
 * LastPass: Simply the best and most reliable password manager.
-* Checker Plus for Gmail:
+* Checker Plus for Gmail
 * Checker Plus for Calender
 * JWT Debugger
-* Clipboard History Pro
 * uBlock Origin
 * Zoom scheduler
-
+* Dictionary Anywhere
+* User Agent Parser
+* WhatRuns
+* Stylish
 
 ## Productivity Tips
 * Desk setup + Room
