@@ -23,6 +23,7 @@
   * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 * Postman
 * Magnet
+* FUSE (Support for other file systems): https://osxfuse.github.io
 * Zoom
 * [Alfred 4](https://www.alfredapp.com/) with Powerpack is a must for productivity hacks on MacOS.
   * tldr: https://github.com/cs1707/tldr-alfred
@@ -38,6 +39,7 @@
   * LastPass CLI: http://www.packal.org/workflow/lastpass-cli-workflow-alfred
   * Spotify Mini Player: http://alfred-spotify-mini-player.com
 * Trello
+* NordVPN
 * Tomighty
 * Clocker
 * [Clipy](https://github.com/Clipy/Clipy): This is an awesome tool for managing clipboard history and common snippets/URLs you copy/paste.
