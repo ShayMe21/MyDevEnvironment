@@ -43,7 +43,8 @@
 * Tomighty
 * Clocker
 * [Clipy](https://github.com/Clipy/Clipy): This is an awesome tool for managing clipboard history and common snippets/URLs you copy/paste.
-
+* [Fanny Widget](https://fannywidget.com) - Cool widget/menu bar to show the CPU/GPU temp and fan speeds.
+* [Keeping You awake](https://github.com/newmarcel/KeepingYouAwake) - Simple menu bar wrapper for the caffeinate command.
 
 
 ## Terminal
