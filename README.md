@@ -9,11 +9,7 @@
 ---
 
 ## Applications
-* [Microsoft OneNote](http://www.onenote.com): MacOS app is almost as good as the Windows one now. I use this for:
-  * Taking down notes for meetings
-  * Creating nice visual pages for different technologies I am trying to learn.
-  * Writing down Main take-aways from the books I read.
-  * Personal details I'd like synced to view on my other devices.
+* Evernote - for note-taking
 * [BoostNote](https://boostnote.io/): This is my goto app for keeping useful snippets of code/terminal. It supports Markdown and syntax highlighting so it's got a big advantage over OneNote.
 * Visual Studio Code + some uncommon extensions below you may find useful:
   * [One Dark Pro theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
@@ -28,31 +24,24 @@
 * [Alfred 4](https://www.alfredapp.com/) with Powerpack is a must for productivity hacks on MacOS.
   * tldr: https://github.com/cs1707/tldr-alfred
   * Terminal Finder: https://github.com/LeEnno/alfred-terminalfinder
-  * devdocs: https://github.com/yannickglt/alfred-devdocs
   * GitHub: https://github.com/gharlan/alfred-github-workflow
   * IP Address: https://github.com/alexchantastic/alfred-ip-address-workflow
   * Colors: http://www.packal.org/workflow/colors
   * Encode/Decode: https://github.com/willfarrell/alfred-encode-decode-workflow
   * Host File Manager: http://www.packal.org/workflow/hosts-file-manager
-  * Dash: https://github.com/Kapeli/Dash-Alfred-Workflow
   * Process Killer: https://github.com/nathangreenstein/alfred-process-killer
-  * LastPass CLI: http://www.packal.org/workflow/lastpass-cli-workflow-alfred
-  * Spotify Mini Player: http://alfred-spotify-mini-player.com
 * Trello
 * NordVPN
 * Tomighty
 * Clocker
 * [Clipy](https://github.com/Clipy/Clipy): This is an awesome tool for managing clipboard history and common snippets/URLs you copy/paste.
-* [Fanny Widget](https://fannywidget.com) - Cool widget/menu bar to show the CPU/GPU temp and fan speeds.
-* [Keeping You awake](https://github.com/newmarcel/KeepingYouAwake) - Simple menu bar wrapper for the caffeinate command.
-
 
 ## Terminal
 * [iTerm2](https://www.iterm2.com/features.html): This is a must for any power user of terminal.
 * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) with [Powerline fonts](https://github.com/powerline/fonts): Nice aesthetics for the terminal and useful plugins.
   * ZSH_THEME="cobalt2" (https://github.com/wesbos/Cobalt2-iterm)
   ![My Terminal](https://i.imgur.com/NuU9yds.png)
-  * plugins=(git brew colored-man docker colorize zsh-syntax-highlighting history vscode npm yarn ng pip redis-cli sudo)
+  * plugins=(zsh-syntax-highlighting zsh-autosuggestions)
   * aliases:
  ```
  alias zshconfig="code ~/.zshrc"
@@ -75,7 +64,6 @@
 
 
 ## Browser and Extensions
-* Vivaldi/Chrome: I use both but my primary browser has been [Vivaldi](https://vivaldi.com) lately because you get all features of Chrome + added customizations and features.
 * LastPass: Simply the best and most reliable password manager.
 * Checker Plus for Gmail
 * Checker Plus for Calender
@@ -86,6 +74,9 @@
 * User Agent Parser
 * WhatRuns
 * Stylish
+* Requestly
+* Wikiwand
+* Tampermonkey
 
 ## Productivity Tips
 * Desk setup + Room
