@@ -22,19 +22,18 @@
 * FUSE (Support for other file systems): https://osxfuse.github.io
 * Zoom
 * [Alfred 4](https://www.alfredapp.com/) with Powerpack is a must for productivity hacks on MacOS.
-  * tldr: https://github.com/cs1707/tldr-alfred
   * Terminal Finder: https://github.com/LeEnno/alfred-terminalfinder
   * GitHub: https://github.com/gharlan/alfred-github-workflow
   * IP Address: https://github.com/alexchantastic/alfred-ip-address-workflow
   * Colors: http://www.packal.org/workflow/colors
-  * Encode/Decode: https://github.com/willfarrell/alfred-encode-decode-workflow
   * Host File Manager: http://www.packal.org/workflow/hosts-file-manager
   * Process Killer: https://github.com/nathangreenstein/alfred-process-killer
+  * DownMedia: https://github.com/vitorgalvao/alfred-workflows/tree/master/DownMedia
+  * CoffeeCoffee: https://github.com/vitorgalvao/alfred-workflows/tree/master/CoffeeCoffee
 * Trello
 * NordVPN
 * Tomighty
 * Clocker
-* [Clipy](https://github.com/Clipy/Clipy): This is an awesome tool for managing clipboard history and common snippets/URLs you copy/paste.
 
 ## Terminal
 * [iTerm2](https://www.iterm2.com/features.html): This is a must for any power user of terminal.
